@@ -10,7 +10,7 @@ environment:
 variables:
   modules:
     bootcamp:
-      CDF_PROJECT: cdf-bootcamp-20-prod # ex. cdf-bootcamp-01-test
+      CDF_PROJECT: cdf-bootcamp-20-prod # ex. cdf-bootcamp-01-tests
       IDP_CLIENT_ID: ${IDP_CLIENT_ID} # replaced by .env
       IDP_CLIENT_SECRET: ${IDP_CLIENT_SECRET} # replaced by .env
       IDP_TENANT_ID: ${IDP_TENANT_ID} # replaced by .env
